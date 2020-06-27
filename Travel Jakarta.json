@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1,
+    "TravelName": "Pulau Kelapa",
+    "Address": "Kepulauan Seribu, DKI Jakarta",
+    "Latitude": -5.654968,
+    "Longitude": 106.567951,
+    "Open": "24 jam",
+    "Description": "Tempat wisata di Jakarta tak melulu hanya pusat perbelanjaan atau taman hiburan saja tetapi Jakarta juga punya wisata alam kepulauan yang memukau. Seperti di Kepulauan Seribu misalnya yang menyuguhkan keindahan alam pulau-pulau kecil nan eksotis yang masih alami, salah satunya ialah Pulau Kelapa. Di sekitar pantai tumbuh banyak pohon kelapa yang semakin menjadikan destinasi ini tambah eksotis.",
+    "Ticket": "Rp 1000"
+  },
+  {
+    "Id": 2,
+    "TravelName": "Planetarium Jakarta",
+    "Address": "Jl. Cikini Raya No.73, Cikini, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta",
+    "Latitude": -6.190178,
+    "Longitude": 106.838918,
+    "Open": "08.00-15.00 (Selasa-Minggu)",
+    "Description": "Belajar mengenal system tata surya, seperti apa planet dan benda-benda luar angkasa lainnya menjadi satu hal yang menarik. Dan Anda bisa mendapatkannya dengan cukup detail dengan kemasan yang atraktif di Planetarium Jakarta. Tempat wisata di Jakarta yang satu ini menjadi satu dari sekian banyak destinasi  yang wajib dikunjungi di Jakarta. Sebab tak hanya memberikan hiburan tetapi juga edukasi pada setiap pengunjungnya, hingga tak heran tempat ini kerap jadi langganan wisata edukasi untuk pelajar.",
+    "Ticket": "Rp 12.000 (dewasa), Rp 7.000 (anak-anak)"
+  },
+  {
+    "Id": 3,
+    "TravelName": "Waterboom PIK",
+    "Address": "Jl. Pantai Indah Barat, Kamal Muara, Penjaringan, Kota Jakarta Utara, DKI Jakarta",
+    "Latitude": -6.113996,
+    "Longitude": 106.747847,
+    "Open": "10.00-21.00 (Senin-Jum’at) dan 08.00-21.00 (Sabtu-Minggu)",
+    "Description": "Tempat wisata di Jakarta yang juga cukup populer dan banyak diminiati untuk mengisi waktu libur ialah Waterboom yang berada di kawasan Pantai Indah Kapuk. Destinasi yang mengusung tema  ”urban cool” ini punya banyak wahana seru yang menarik. Seperti wahana speed slide, aquatube, twiztler, hair pin dan tentunya banyak lagi wahana seru lainnya. Fasilitas penunjangnya pun cukup lengkap, seperti loker penyimpanan, gazebo untuk berteduh, hingga fasilitas kebersihannya pun sangat terjaga. Sehingga tak perlu khawatir saat membawa keluyarga menghabiskan waktu seharian bermain air.",
+    "Ticket": "Rp 120.000 (anak-anak), Rp 220.000 (dewasa)"
+  },
+  {
+    "Id": 4,
+    "TravelName": "Taman Wisata Alam Mangrove, Angke Kapuk",
+    "Address": "Jalan Garden House, Kamal Muara, Penjaringan, Kota Jakarta Utara, DKI Jakarta",
+    "Latitude": -6.105398,
+    "Longitude": 106.735445,
+    "Open": "07.00-18.00 (Senin-Minggu)",
+    "Description": "Jika Anda merasa penat dengan keadaan kota Jakarta yang super sibuk dan hectic, coba menepi sejenak di hutan mangrove yang ada di pesisir utara Jakarta. Tepatnya di Taman Wisata Alam Mangrove Angke Kapuk yang berada di kawasan Penjaringan-Jakarta Utara. Tempat wisata di Jakarta ini punya banya spot menarik untuk dikunjungi. Mulai dari jembatan gantung yang berada di tengah hutan bakau yang cocok untuk spot foto. Lalu jembatan pantau yang bisa digunakan untuk mengamati keindahan di sekeliling hutan bakau, termasuk burung-burung hingga gedung-gedung tingga yang ada di kawasan Pantai Indah Kapuk. Di tempat ini juga terdapat wisata air dan bermain anak hingga pondok kemah jika berniat menginap di kawasan tersebut.",
+    "Ticket": "Rp 25.000 (wisatawan lokal), Rp 250.000 (wisatawan mancanegara)"
+  },
+  {
+    "Id": 5,
+    "TravelName": "Dunia Fantasi Ancol (DUFAN)",
+    "Address": "Jl. Lodan Timur No.7, Ancol, Kec. Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430, Indonesia",
+    "Latitude": -6.125787,
+    "Longitude": 106.834273,
+    "Open": "10.00-20.00 (Setiap Hari)",
+    "Description": "Dunia Fantasi Ancol, yang lebih dikenal dengan nama Dufan, merupakan tempat wisata keluarga yang sudah dikenal se Indonesia. Disini terdapat berbagai wahana permainan yang bisa dinikmati bersama keluarga. Tempatnya berada di area Taman Impian Jaya Ancol. Anda bisa sekalian mengunjungi berbagai tempat wisata lain yang ada di area ini.",
+    "Ticket": "Rp 150.000"
+  }
+]
