@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1,
+    "TravelName": "Museum Macan",
+    "Address": "Wisma Akr, Jl. Panjang No.5, RT.11/RW.10, Kebon Jeruk, Jakarta Barat",
+    "Latitude": -6.1913,
+    "Longitude": 106.7675,
+    "Open": "10.00-19.00 WIB (Selasa – Minggu)",
+    "Description": "Saat mendengar namanya, mungkin Anda akan salah mengira, karena tempat wisata di Jakarta yang sedang hits ini justru menyimpan beragam karya seni yang memukau. Disingkat dari Museum of Modern and Contemporary Art in Nusantara, Museum MACAN ini merupakan destinasi yang cocok untuk pengagum karya seni baik modern maupun kontemporer.",
+    "Ticket": "Rp 50.000,- (dewasa), Rp 40.000,- (lansia dan pelajar), Rp 30.000,- (anak-anak)"
+  },
+  {
+    "Id": 2,
+    "TravelName": "Kota Tua",
+    "Address": "Jl. Taman Fatahillah No.1, RT.7/RW.7, Kota Tua, Pinangsia, Tamansari, Jakarta Barat, Jakarta",
+    "Latitude": -6.1343,
+    "Longitude": 106.8145,
+    "Open": "24 Jam",
+    "Description": "Di sudut kota metropolitan Jakarta ada satu kawasan yang menyimpan nilai historis tinggi tetapi juga jadi tempat wisata hits, Kota Tua namanya. Banyaknya gedung-gedung tua bergaya kolonial yang masih kokoh berdiri memberikan nuansa seolah kembali ke masa lampau. Karenanya Tak heran jika hari libur atau akhir pekan tiba, kawasan ini selalu ramai dipadati pengunjung.",
+    "Ticket": "Rp 20.000"
+  },
+  {
+    "Id": 3,
+    "TravelName": "Taman Mini Indonesia Indah",
+    "Address": "Ceger, Cipayung, Jakarta Timur, DKI Jakarta",
+    "Latitude": -6.3035,
+    "Longitude": 106.8955,
+    "Open": "07.00 – 22.00",
+    "Description": "Berbagai jenis budaya daerah yang ada di tanah air bisa Anda temui di taman ini, seperti  rumah-rumah adat. Tak hanya itu, di kawasan taman tersebut juga berdiri lebih dari belasan museum, puluhan taman dengan tema yang atraktif, gedung teater hingga taman bermain seru.",
+    "Ticket": "Rp 50.000"
+  },
+  {
+    "Id": 4,
+    "TravelName": "Taman Impian Jaya Ancol",
+    "Address": "Jalan Lodan Timur No.7, RW.10, Kota Tua, Ancol, Pademangan, Kota Jakarta Utara, DKI Jakarta",
+    "Latitude": -6.1248,
+    "Longitude": 106.8423,
+    "Open": "24 Jam",
+    "Description": "Destinasi wisata ini merupakan sebuah kawasan wisata terpadu yang dilengkapi dengan ragam fasilitas bertaraf internasional dengan luas area hingga 552 hektar. Termasuk di dalamnya terdapat taman hiburan, wisata pantai, wisata kulibner, lapangan golf, cottages hingga hotel berbintang.",
+    "Ticket": "Rp 30.000"
+  },
+  {
+    "Id": 5,
+    "TravelName": "Tugu Monumen Nasional",
+    "Address": "Gambir, Jakarta Pusat, DKI Jakarta",
+    "Latitude": -6.1756,
+    "Longitude": 106.8272,
+    "Open": "07.00-00.00 (Setiap Hari)",
+    "Description": "Dengan menjelajahi setiap sudut Monas, Anda akan diajak mengenal bagaimana perjalanan sejarah masa demi masa bangsa Indonesia hingga masa modern secara singkat namun cukup atraktif. Jika Anda ingin melihat kota Jakarta lebih jelas, maka Anda bisa naik ke bagian puncak monumen yang memiliki ketinggian lebih dari 100 meter tersebut. Tak perlu takut kelelahan sebab ada lift dengan kapasitas 11 orang yang bisa membawa Anda ke puncak tertinggi Monas.",
+    "Ticket": "Rp 20.000"
+  }
+]
