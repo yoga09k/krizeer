@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1,
+    "Menu": "Domino's Pizza (Jakarta)",
+    "Address": "Karet Tengsin No 4, RT.1/RW.6, Karet Tengsin, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10220, Indonesia",
+    "Latitude": -6.179400,
+    "Longitude": 106.811285,
+    "Open": "09.00-19.00 WIB (Setiap Hari)",
+    "Telp": "+62 1 500 366",
+    "Harga": "Rp 45.000"
+  },
+  {
+    "Id": 2,
+    "Menu": "Panties Pizza (Surabaya)",
+    "Address": "Jl. Mleto No.42C, Klampis Ngasem, Kec. Sukolilo, Kota SBY, Jawa Timur 60117, Indonesia",
+    "Latitude": -7.282107,
+    "Longitude": 112.774382,
+    "Open": "09.00-17.00 WIB (Setiap Hari)",
+    "Telp": "+62 838-4989-3498",
+    "Harga": "Rp 58.000"
+  },
+  {
+    "Id": 3,
+    "Menu": "Pizza Hut Restoran (Tangerang)",
+    "Address": "Daan Mogot Rd No.49, RT.002/RW.001, Sukarasa, Tangerang, Tangerang City, Banten 15111, Indonesia",
+    "Latitude": -6.171412,
+    "Longitude": 106.632162,
+    "Open": "09.00-22.00 WIB (Senin – Jumat)",
+    "Telp": "+62 811-3249-057",
+    "Harga": "Rp 62.000"
+  },
+  {
+    "Id": 4,
+    "Menu": "Pizza Marzano (Tangerang)",
+    "Address": "Supermal Karawaci UG Floor, Jl. Boulevard Diponegoro No.105 0000, Bencongan, Kec. Klp. Dua, Tangerang, Banten 15811, Indonesia",
+    "Latitude": -6.226970,
+    "Longitude": 106.607062,
+    "Open": "10.00-22.00 WIB (Senin – Sabtu)",
+    "Telp": "+62 21 54213623",
+    "Harga": "Rp 84.000"
+  },
+  {
+    "Id": 5,
+    "Menu": "Mastercheese Pizza (Tangerang)",
+    "Address": "Jl. Klp. Lilin Raya, ruko 7cs df2 no 8, Curug Sangereng, Kec. Klp. Dua, Tangerang, Banten 15810, Indonesia",
+    "Latitude": -6.247147,
+    "Longitude": 106.622015,
+    "Open": "08.00-18.00 (Senin – Sabtu)",
+    "Telp": "+62 895-6157-18581",
+    "Harga": "Rp 75.000"
+  }
+]
